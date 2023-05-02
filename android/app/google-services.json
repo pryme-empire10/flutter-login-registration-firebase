@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969578848470",
+    "project_id": "sinuploginauth",
+    "storage_bucket": "sinuploginauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969578848470:android:88088a57253f29ccd76977",
+        "android_client_info": {
+          "package_name": "com.pryme.loginandsignupwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969578848470-mrsabu6nanmcji8to4lhiodom1olv2b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOV2WdFcJlso_o5GjZP9vyXMzy0lHVEx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969578848470-mrsabu6nanmcji8to4lhiodom1olv2b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
