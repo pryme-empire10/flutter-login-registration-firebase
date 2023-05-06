@@ -11,11 +11,11 @@ Future<void> main() async{
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
+//this is the second change
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
       home: LoginScreen(),
     );
   }
